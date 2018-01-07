@@ -9,7 +9,7 @@
 const users = [
   {
     caption: 'User1',
-    image: '/test-site/img/docusaurus.svg',
+    image: '',
     infoLink: 'https://www.facebook.com',
     pinned: true,
   },
@@ -18,9 +18,12 @@ const users = [
 const siteConfig = {
   title: 'Test Site' /* title for your website */,
   tagline: 'A website for testing',
-  url: 'https://mrwakecz.github.io/Minecraft-help/' /* your website url */,
+  url: 'https://testing.waked.cz' /* your website url */,
   baseUrl: '/' /* base url for your project */,
+  organizationName: 'MrWakeCZ',
   projectName: 'Minecraft-help',
+  cname: 'testing.waked.cz',
+  noIndex: false,
   headerLinks: [
     {doc: 'doc1', label: 'Docs'},
     {doc: 'doc4', label: 'API'},
@@ -42,8 +45,6 @@ const siteConfig = {
     'Copyright © ' +
     new Date().getFullYear() +
     ' Your Name or Your Company Name',
-   organizationName: 'MrWakeCZ', // or set an env variable ORGANIZATION_NAME
-   projectName: 'Minecraft-help', // or set an env variable PROJECT_NAME
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
     theme: 'default',
