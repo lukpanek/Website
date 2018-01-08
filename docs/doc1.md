@@ -1,7 +1,7 @@
 ---
 id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+title: Úvodní stránka
+sidebar_label: Úvodní stránka
 ---
 
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
