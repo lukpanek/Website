@@ -16,14 +16,15 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Test Site' /* title for your website */,
-  tagline: 'A website for testing',
+  title: 'Minecraft Help' /* title for your website */,
+  tagline: 'Česká stránka obsahující návody pro Minecraft a Spigot pluginy.',
   url: 'https://testing.waked.cz' /* your website url */,
   baseUrl: '/' /* base url for your project */,
   organizationName: 'MrWakeCZ',
   projectName: 'Minecraft-help',
   cname: 'testing.waked.cz',
   noIndex: false,
+  editUrl: "https://github.com/MrWakeCZ/Minecraft-help/blob/master/docs/",
   headerLinks: [
     {doc: 'doc1', label: 'Docs'},
     {doc: 'doc4', label: 'API'},
@@ -37,8 +38,8 @@ const siteConfig = {
   favicon: 'img/favicon.png',
   /* colors for website */
   colors: {
-    primaryColor: '#2E8555',
-    secondaryColor: '#205C3B',
+    primaryColor: '#473C8B',
+    secondaryColor: '#6959CD',
   },
   // This copyright info is used in /core/Footer.js and blog rss/atom feeds.
   copyright:
