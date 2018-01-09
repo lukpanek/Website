@@ -29,13 +29,12 @@ const siteConfig = {
     {doc: 'doc1', label: 'Docs'},
     {doc: 'doc4', label: 'API'},
     {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
   ],
   users,
   /* path to images for header/footer */
-  headerIcon: 'img/docusaurus.svg',
-  footerIcon: 'img/docusaurus.svg',
-  favicon: 'img/favicon.png',
+  headerIcon: 'img/anvil.png',
+  footerIcon: 'img/anvil.png',
+  favicon: 'img/anvil.png',
   /* colors for website */
   colors: {
     primaryColor: '#473C8B',
