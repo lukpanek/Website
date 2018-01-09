@@ -52,7 +52,7 @@ const SplashContainer = props => (
 
 const Logo = props => (
   <div className="projectLogo">
-    <img src={props.img_src} />
+    <img src="img/anvil.png" />
   </div>
 );
 
@@ -80,9 +80,11 @@ class HomeSplash extends React.Component {
         <div className="inner">
           <ProjectTitle />
           <PromoSection>
-            <Button href="#try">Try It Out</Button>
-            <Button href={docUrl('doc1.html', language)}>Example Link</Button>
-            <Button href={docUrl('doc2.html', language)}>Example Link 2</Button>
+            <Button href="#try">Minecraft</Button>
+            <Button href={docUrl('doc1.html', language)}>Bungeecord</Button>
+            <Button href={docUrl('doc2.html', language)}>Spigot/Bukkit</Button>
+            <Button href={docUrl('doc2.html', language)}>Forge/Sponge</Button>
+            <Button href={docUrl('doc2.html', language)}>Minecraft:PE</Button>
           </PromoSection>
         </div>
       </SplashContainer>
@@ -103,16 +105,22 @@ const Features = props => (
   <Block layout="fourColumn">
     {[
       {
-        content: 'This is the content of my feature',
-        image: imgUrl('docusaurus.svg'),
+        content: 'Na naší wiki najdeš podrobné návody k nejpoužívanějším pluginům, které jsou psané těmi, co tomu opravdu rozumí.',
+        image: imgUrl('compass.png'),
         imageAlign: 'top',
-        title: 'Feature One',
+        title: 'Návody k pluginům',
       },
       {
-        content: 'The content of my second feature',
-        image: imgUrl('docusaurus.svg'),
+        content: 'S každou verzí Minecraftu se určité věci změní. U nás najdeš vše jasně a stručně vypsané, co se v jaké verzi změnilo!',
+        image: imgUrl('grass-block.png'),
         imageAlign: 'top',
-        title: 'Feature Two',
+        title: 'Novinky v Minecraftu',
+      },
+      {
+        content: 'Naše Wiki je Open-Source, co to znamená? No, že se každý může podívat na source a pomoct nám zlepšit naší Wiki!',
+        image: imgUrl('Octocat.png'),
+        imageAlign: 'top',
+        title: 'Open-Source',
       },
     ]}
   </Block>
@@ -122,8 +130,6 @@ const FeatureCallout = props => (
   <div
     className="productShowcaseSection paddingBottom"
     style={{textAlign: 'center'}}>
-    <h2>Feature Callout</h2>
-    <MarkdownBlock>These are features of this project</MarkdownBlock>
   </div>
 );
 
