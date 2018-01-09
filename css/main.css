@@ -1834,12 +1834,6 @@ footer .copyright {
   background-color: $backgroundColor !important;
 }
 
-@media only screen and (min-width: 1024px) {
-  .mainContainer {
-    margin-left: 20px;
-  }
-}
-
 .docsNavContainer {
   width: 240px;
 }
@@ -1859,7 +1853,7 @@ a {
 }
 
 .navGroup {
-  background-color: #eaf2f5 !important;
+  background-color: #EAEAEA !important;
 }
 
 .navitemactive {
@@ -1953,10 +1947,6 @@ input#search_input_react {
 
 .wrapper {
   max-width: 1200px;
-}
-
-.container {
-  max-width: 900px;
 }
 
 .container .wrapper h2 {
