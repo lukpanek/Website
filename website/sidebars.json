@@ -1,10 +1,9 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+    "Docusaurus": ["doc1"]
   },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
+  "minecraft": {
+    "Úvod": ["minecraft-uvod","rozdil-java-mcpe"],
+    "Minecraft verze": ["minecraft-1.13"]
   }
 }

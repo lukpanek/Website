@@ -80,7 +80,7 @@ class HomeSplash extends React.Component {
         <div className="inner">
           <ProjectTitle />
           <PromoSection>
-            <Button href="#try">Minecraft</Button>
+            <Button href={docUrl('minecraft-uvod.html', language)}>Minecraft Java</Button>
             <Button href={docUrl('doc1.html', language)}>Bungeecord</Button>
             <Button href={docUrl('doc2.html', language)}>Spigot/Bukkit</Button>
             <Button href={docUrl('doc2.html', language)}>Forge/Sponge</Button>

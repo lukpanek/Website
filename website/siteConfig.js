@@ -26,8 +26,8 @@ const siteConfig = {
   noIndex: false,
   editUrl: "https://github.com/MrWakeCZ/Minecraft-help/blob/master/docs/",
   headerLinks: [
-    {doc: 'doc1', label: 'Domů'},
-    {doc: 'doc4', label: 'Source'},
+    {doc: '', label: 'Domů'},
+    {doc: '', label: 'Source'},
   ],
   users,
   /* path to images for header/footer */
