@@ -8,10 +8,7 @@
 <url> <loc>https://testing.waked.cz/blog/2017/09/25/testing-rss.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://testing.waked.cz/blog/2017/04/10/blog-post-two.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://testing.waked.cz/blog/2016/03/11/blog-post.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
-<url> <loc>https://testing.waked.cz/docs/doc1.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://testing.waked.cz/docs/doc1.html" /> </url>
-<url> <loc>https://testing.waked.cz/docs/doc2.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://testing.waked.cz/docs/doc2.html" /> </url>
-<url> <loc>https://testing.waked.cz/docs/doc3.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://testing.waked.cz/docs/doc3.html" /> </url>
-<url> <loc>https://testing.waked.cz/docs/doc4.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://testing.waked.cz/docs/doc4.html" /> </url>
-<url> <loc>https://testing.waked.cz/docs/doc5.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://testing.waked.cz/docs/doc5.html" /> </url>
-<url> <loc>https://testing.waked.cz/docs/test.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://testing.waked.cz/docs/test.html" /> </url>
+<url> <loc>https://testing.waked.cz/docs/minecraft-1.13.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://testing.waked.cz/docs/minecraft-1.13.html" /> </url>
+<url> <loc>https://testing.waked.cz/docs/minecraft-uvod.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://testing.waked.cz/docs/minecraft-uvod.html" /> </url>
+<url> <loc>https://testing.waked.cz/docs/rozdil-java-mcpe.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://testing.waked.cz/docs/rozdil-java-mcpe.html" /> </url>
 </urlset>
