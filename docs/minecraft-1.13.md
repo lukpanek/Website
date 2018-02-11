@@ -17,4 +17,4 @@ Plánované datum vydání je Q1/2018.
 
 ### Příkazy
 * Nově jsou všechny Vanilla příkazy barevné podle typů požadavku, pravděpodobně pokuď to dovolí Spigot budou i v pozdější fázi i plugin příkazy barevné.
-* Chyby se nyní přímo ukazují v chatu a nespouští příkazy.ßß
+* Chyby se nyní přímo ukazují v chatu a nespouští příkazy.
