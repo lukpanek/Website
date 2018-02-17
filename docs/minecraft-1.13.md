@@ -39,8 +39,8 @@ Plánované datum vydání je Q2/2018.
 
 ### Bloky
 * Byly přidány nové druhy Trapdoorů, tlačítek a pressure plates podle typů dřeva.
-* Nový blok Pumpkin blok bez oblyčeje.
-    * Kliknutím s nůžky na tento blok, vytvoří do dýně oblyčej, tak jak ho známe.
+* Nový blok Pumpkin blok bez obličeje.
+    * Kliknutím s nůžky na tento blok, vytvoří do dýně obličej, tak jak ho známe.
 * Přidán `cave_air` a `void_air`
     * Jedná se o bloky vzduchu, které se nedají získat.
     * `cave_air` se generuje v jeskyních.
