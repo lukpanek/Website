@@ -1,1 +1,1 @@
-Minecraft-help
+# MinecraftHelp.cz
